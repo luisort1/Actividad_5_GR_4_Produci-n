@@ -1,0 +1,3 @@
+﻿cod_producto;tipo_regla;valor_regla;unidad_regla;fecha_base;resultado_si_no_cumple;estado_parametrizacion;observacion
+14002692;TEMPERATURA;2;DIAS_CALENDARIO;fecha_de_fin_real;Esperar control de temperatura;PARAMETRIZADO;
+14002995;TEMPERATURA;2;DIAS_CALENDARIO;fecha_de_fin_real;Esperar control de temperatura;PARAMETRIZADO;

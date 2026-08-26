@@ -1,0 +1,7 @@
+﻿cod_producto;nivel_control;unidad_control;peso_minimo_unitario_kg;peso_maximo_unitario_kg;peso_minimo_presentacion_kg;peso_maximo_presentacion_kg;tolerancia_porcentaje;genera_novedad;estado_parametrizacion;
+14002692;UNITARIO;KG_UNIDAD;0,18;0,195;;;;SI;PARAMETRIZADO;
+14002995;UNITARIO;KG_UNIDAD;0,12;0,13;;;;SI;PARAMETRIZADO;
+12002518;PRESENTACION;KG;;;2;;;SI;PARAMETRIZADO;
+14002428;PRESENTACION;KG;;;1;;;SI;PARAMETRIZADO;
+14002427;UNITARIO;KG_UNIDAD;0,055;0,06;;;;SI;PARAMETRIZADO;
+14002441;UNITARIO;KG_UNIDAD;0,045;0,055;;;;SI;PARAMETRIZADO;
